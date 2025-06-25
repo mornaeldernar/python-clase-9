@@ -1,0 +1,57 @@
+{
+  "pozos": [
+    {
+      "id": "POZO-A-001",
+      "campo": "CAMPO-A",
+      "profundidad_m": 3250,
+      "años_operacion": 8,
+      "tipo": "Vertical",
+      "produccion_acumulada": 3650000,
+      "costo_operativo_diario": 2500
+    },
+    {
+      "id": "POZO-A-002",
+      "campo": "CAMPO-A",
+      "profundidad_m": 3100,
+      "años_operacion": 6,
+      "tipo": "Vertical",
+      "produccion_acumulada": 2100000,
+      "costo_operativo_diario": 2200
+    },
+    {
+      "id": "POZO-B-001",
+      "campo": "CAMPO-B",
+      "profundidad_m": 3800,
+      "años_operacion": 5,
+      "tipo": "Horizontal",
+      "produccion_acumulada": 2880000,
+      "costo_operativo_diario": 3200
+    },
+    {
+      "id": "POZO-B-002",
+      "campo": "CAMPO-B",
+      "profundidad_m": 3650,
+      "años_operacion": 7,
+      "tipo": "Direccional",
+      "produccion_acumulada": 2195000,
+      "costo_operativo_diario": 2800
+    },
+    {
+      "id": "POZO-C-001",
+      "campo": "CAMPO-C",
+      "profundidad_m": 2900,
+      "años_operacion": 10,
+      "tipo": "Vertical",
+      "produccion_acumulada": 4015000,
+      "costo_operativo_diario": 1900
+    }
+  ],
+  "metricas_comparativas": {
+    "produccion_promedio_vertical": 1150,
+    "produccion_promedio_horizontal": 1580,
+    "produccion_promedio_direccional": 850,
+    "costo_por_barril_vertical": 2.17,
+    "costo_por_barril_horizontal": 2.03,
+    "costo_por_barril_direccional": 3.29
+  }
+}
